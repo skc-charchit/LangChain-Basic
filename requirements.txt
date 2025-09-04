@@ -1,13 +1,23 @@
-openai
-langchain
-langchain_openai
-langchain_experimental
-langchainhub
-pinecone-client
+# openai
+# langchain
+# langchain_openai
+# langchain_experimental
+# langchainhub
+# pinecone-client
 python-dotenv
-tiktoken
-docx2txt
-pypdf
+# tiktoken
+# docx2txt
+# pypdf
 requests
 numpy
 pandas
+transformers
+seaborn
+matplotlib
+Pillow
+scikit-learn
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
